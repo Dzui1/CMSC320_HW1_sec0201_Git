@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: Git helps track, manage, and edit files, especially as part of larger projects. It also helps organizations and teams by establishing a centerpoint to base collaboration upon.
+=======
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Many fields can use data science, such as healthcare, finance, transportation, computer science.
+>>>>>>> q2
